@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">depApp</string>
+
+    <string name="hello_world">Depression Application !! \n \n For All the FOREVER-ALONEs.</string>
+    <string name="action_settings">Settings</string>
+        <string-array
+            name="words">
+
+        <item>Forever Alone is your name, being Alone is your game</item>
+        <item>Life is tough ... you are not</item>
+        <item>You are far too sensitive ... baby skin personality</item>
+            <item> Life goes on ... you stay here </item>
+            <item>You’re strong, you will be fine \n \n \n Just kidding, nobody likes you</item>
+            <item>You should phone me, but I am just an app :P</item>
+            <item>You should be better by now \n \n just kidding you will never be better</item>
+            <item>You will have to learn to live with it</item>
+            <item>########</item>
+            <item>
+تخيل
+                \n \n
+                أحلام عندها معجبين وأنت محد يحبك
+
+            </item>
+            <item>
+            محد يحبك .. بتقعد طول عمرك وحيد
+            </item>
+            <item>
+                محد اتصلك لا تخاف
+            </item>
+
+
+
+        </string-array>
+</resources>
